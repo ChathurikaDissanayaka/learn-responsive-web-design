@@ -3,6 +3,7 @@
     color: white;
     width: 560px;
     margin: 0 auto;
+    padding: 50px;
 }
 
 h1 {
@@ -10,9 +11,9 @@ h1 {
 }
 
 p {
-    font-size: 18px;
+    font-size: 18px;    
 }
 
 .links {
-    margin-top: 40px;
+    margin-top: 45px;
 }
